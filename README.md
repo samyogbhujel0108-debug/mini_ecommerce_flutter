@@ -39,7 +39,7 @@ Mini E-Commerce is a multi-screen shopping app built with Flutter. The app allow
 
 1. **Clone the Repository:**
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/samyogbhujel0108-debug/mini_ecommerce_flutter
    cd mini_ecommerce_flutter
    ```
 
